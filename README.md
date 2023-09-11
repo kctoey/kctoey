@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanchaporn Chiangthong</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-8aj.pages.dev/?fbclid=IwAR30PjJsErpi59C8BBRBghV34q3ZaWtUvQjcJeepDqig8U6wR4z7gJPhCdY](https://portfolio-website-8aj.pages.dev/?fbclid=IwAR30PjJsErpi59C8BBRBghV34q3ZaWtUvQjcJeepDqig8U6wR4z7gJPhCdY)
 
